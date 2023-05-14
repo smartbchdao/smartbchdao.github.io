@@ -1,0 +1,34 @@
+/* @media screen and (max-width:750px){
+      html {
+        font-size: 12px;
+      }
+} */
+/* @media screen and (max-width:1200px){
+      html {
+        font-size: 14px;
+      }
+} */
+
+/* @media screen and (min-width:750px){
+      html {
+        font-size: 16px;
+      }
+}
+
+@media screen and (min-width:960px){
+      html {
+        font-size: 16px;
+      }
+} */
+*{margin: 0; padding: 0}
+html{ 
+   height: 100%;
+   /* overflow: hidden; */
+} 
+body{  
+  height: 100%;
+  /* overflow: auto; */
+  /* zoom: 0.8; */
+}
+
+
